@@ -1,0 +1,3 @@
+Two players A and B play a marble game. Each player has a red and a blue marble. They present one marble to each other. If both present red, A wins $3. If both present blue, A wins $1. If the colors do not match, B wins $2. 
+
+Is it better to be A, or B, or does it matter?
