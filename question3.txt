@@ -1,0 +1,2 @@
+A coin making machine produces pennies. Each penny is manufactured to have a probability P of turning up heads.
+However, the machine draws P randomly
