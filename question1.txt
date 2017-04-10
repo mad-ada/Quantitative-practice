@@ -1,0 +1,3 @@
+You have a large jar containing 999 fair pennies and one two-headed penny. 
+Suppose you pick one coin out of the jar and flip 10 it ten times and get all heads.
+What's the probability that the coin you chose is the two-headed one.
