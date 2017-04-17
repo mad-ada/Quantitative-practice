@@ -1,0 +1,6 @@
+Suppose we have an ant travelling on edges of a cube, going from one vertex to another. 
+The ant never stops and it takes him one minute to go along one edge. At every vertex, the ant 
+randomly picks one of the three available edges and starts going along that edge.
+We pick a vertex of the cube and put the ant there. What is the expected number of minutes that it
+will tak the ant to return to that same vertex?
+
